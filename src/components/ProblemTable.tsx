@@ -7,7 +7,7 @@ interface Problem {
   difficulty: string;
   title: string;
   frequency: number;
-  acceptanceRate: number;
+  acceptancerate: number;
   link: string;
   topics: string[];
 }
@@ -29,8 +29,9 @@ const ProblemTable: React.FC<ProblemTableProps> = ({ problems, sortConfig, onSor
       <ArrowDown size={14} className="sort-icon" />;
   };
 
-  // Format acceptance rate as percentage
-  const formatAcceptanceRate = (rate: number) => {
+  // Format acceptance rate as percentage, handle missing/invalid values
+  const formatAcceptanceRate = (rate: number | undefined) => {
+    if (typeof rate !== 'number' || isNaN(rate)) return 'N/A';
     return (rate * 100).toFixed(1) + '%';
   };
 
@@ -48,10 +49,10 @@ const ProblemTable: React.FC<ProblemTableProps> = ({ problems, sortConfig, onSor
               Frequency {getSortIcon('frequency')}
             </th>
             <th 
-              className={`sortable ${sortConfig.key === 'acceptanceRate' ? 'active' : ''}`}
-              onClick={() => onSort('acceptanceRate')}
+              className={`sortable ${sortConfig.key === 'acceptancerate' ? 'active' : ''}`}
+              onClick={() => onSort('acceptancerate')}
             >
-              Acceptance Rate {getSortIcon('acceptanceRate')}
+              Acceptance Rate {getSortIcon('acceptancerate')}
             </th>
             <th>Topics</th>
             <th>Link</th>
@@ -68,7 +69,7 @@ const ProblemTable: React.FC<ProblemTableProps> = ({ problems, sortConfig, onSor
                 </td>
                 <td className="title-cell">{problem.title}</td>
                 <td className="frequency-cell">{problem.frequency.toFixed(1)}</td>
-                <td>{formatAcceptanceRate(problem.acceptanceRate)}</td>
+                <td>{formatAcceptanceRate(problem.acceptancerate)}</td>
                 <td className="topics-cell">
                   {problem.topics.slice(0, 3).map((topic, index) => (
                     <span key={index} className="topic-chip">{topic}</span>
