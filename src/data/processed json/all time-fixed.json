@@ -1,0 +1,1762 @@
+[
+  {
+    "difficulty": "EASY",
+    "title": "Two Sum",
+    "frequency": 100,
+    "acceptance rate": 0.5554645654615943,
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Trapping Rain Water",
+    "frequency": 85.9,
+    "acceptance rate": 0.6481174529861207,
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": 82.4,
+    "acceptance rate": 0.36716051761300755,
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Merge Sorted Array",
+    "frequency": 82.2,
+    "acceptance rate": 0.5267877498731894,
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Group Anagrams",
+    "frequency": 79,
+    "acceptance rate": 0.7072399695355073,
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Valid Parentheses",
+    "frequency": 78,
+    "acceptance rate": 0.4215998092797934,
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Add Two Numbers",
+    "frequency": 77.9,
+    "acceptance rate": 0.459413124272012,
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Longest Palindromic Substring",
+    "frequency": 77.4,
+    "acceptance rate": 0.3564831776786283,
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "3Sum",
+    "frequency": 77.3,
+    "acceptance rate": 0.3684032266093177,
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Container With Most Water",
+    "frequency": 75.4,
+    "acceptance rate": 0.575771063010519,
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": 75.4,
+    "acceptance rate": 0.4348804217489643,
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Merge Intervals",
+    "frequency": 75.1,
+    "acceptance rate": 0.49193339333454633,
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Longest Common Prefix",
+    "frequency": 71.6,
+    "acceptance rate": 0.4526901773356274,
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Merge k Sorted Lists",
+    "frequency": 71.1,
+    "acceptance rate": 0.5644298154464569,
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Climbing Stairs",
+    "frequency": 71,
+    "acceptance rate": 0.5347677466848659,
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Maximum Subarray",
+    "frequency": 70.9,
+    "acceptance rate": 0.5197311401160347,
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Jump Game",
+    "frequency": 70.2,
+    "acceptance rate": 0.39328279007560757,
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": 69,
+    "acceptance rate": 0.635989390241748,
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Generate Parentheses",
+    "frequency": 68.4,
+    "acceptance rate": 0.7691551391313108,
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Spiral Matrix",
+    "frequency": 68,
+    "acceptance rate": 0.5357353637510847,
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Roman to Integer",
+    "frequency": 67.9,
+    "acceptance rate": 0.6462068209626666,
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": 66.5,
+    "acceptance rate": 0.4264861408520957,
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Palindrome Number",
+    "frequency": 66.4,
+    "acceptance rate": 0.5903900546797897,
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Merge Two Sorted Lists",
+    "frequency": 65.8,
+    "acceptance rate": 0.6665303716564596,
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Reverse Integer",
+    "frequency": 65.7,
+    "acceptance rate": 0.30138556529009614,
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Rotate Image",
+    "frequency": 64.7,
+    "acceptance rate": 0.7762102039138158,
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": 63.9,
+    "acceptance rate": 0.6004881056418871,
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": 62.6,
+    "acceptance rate": 0.4706801312933666,
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Word Search",
+    "frequency": 62.4,
+    "acceptance rate": 0.4502655301147508,
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Next Permutation",
+    "frequency": 62.4,
+    "acceptance rate": 0.4279287449005228,
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Valid Sudoku",
+    "frequency": 60.3,
+    "acceptance rate": 0.6206542294559267,
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "First Missing Positive",
+    "frequency": 59.9,
+    "acceptance rate": 0.40934882920701676,
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": 59.3,
+    "acceptance rate": 0.4656721517228316,
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Subsets",
+    "frequency": 59.1,
+    "acceptance rate": 0.8063757870290277,
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Set Matrix Zeroes",
+    "frequency": 58.8,
+    "acceptance rate": 0.5949790046800141,
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "4Sum",
+    "frequency": 57.9,
+    "acceptance rate": 0.3797904057760794,
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Jump Game II",
+    "frequency": 57.5,
+    "acceptance rate": 0.41356034256795515,
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Pow(x, n)",
+    "frequency": 57.5,
+    "acceptance rate": 0.3685480899783001,
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": 56.5,
+    "acceptance rate": 0.6268015411860829,
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Unique Paths",
+    "frequency": 56.2,
+    "acceptance rate": 0.6564002362650921,
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Regular Expression Matching",
+    "frequency": 56.2,
+    "acceptance rate": 0.2917977712058838,
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Sort Colors",
+    "frequency": 56.2,
+    "acceptance rate": 0.6683253652390846,
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Remove Nth Node From End of List",
+    "frequency": 55.7,
+    "acceptance rate": 0.4863587014121349,
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Search a 2D Matrix",
+    "frequency": 55.4,
+    "acceptance rate": 0.520869944064164,
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Validate Binary Search Tree",
+    "frequency": 54.3,
+    "acceptance rate": 0.34239267262968204,
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Minimum Window Substring",
+    "frequency": 53.8,
+    "acceptance rate": 0.4509844907465082,
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": 53.2,
+    "acceptance rate": 0.44792975181915035,
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Remove Element",
+    "frequency": 53.2,
+    "acceptance rate": 0.5983714539542893,
+    "link": "https://leetcode.com/problems/remove-element",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Combination Sum",
+    "frequency": 52.8,
+    "acceptance rate": 0.743959192972836,
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Sqrt(x)",
+    "frequency": 52.5,
+    "acceptance rate": 0.40263255915689633,
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "N-Queens",
+    "frequency": 52.5,
+    "acceptance rate": 0.7236815633567248,
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Zigzag Conversion",
+    "frequency": 51.2,
+    "acceptance rate": 0.5132151761053041,
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Integer to Roman",
+    "frequency": 50.9,
+    "acceptance rate": 0.6832929983676547,
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Permutations",
+    "frequency": 50.5,
+    "acceptance rate": 0.8048475223019906,
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Plus One",
+    "frequency": 50.5,
+    "acceptance rate": 0.47383536991972586,
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Search Insert Position",
+    "frequency": 48.6,
+    "acceptance rate": 0.4876107529881077,
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Longest Valid Parentheses",
+    "frequency": 48.6,
+    "acceptance rate": 0.36105213522271123,
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Swap Nodes in Pairs",
+    "frequency": 47.8,
+    "acceptance rate": 0.6695236319953605,
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "String to Integer (atoi)",
+    "frequency": 46.5,
+    "acceptance rate": 0.1902804486466948,
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Reverse Linked List II",
+    "frequency": 46.5,
+    "acceptance rate": 0.49417527137940165,
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Add Binary",
+    "frequency": 45.6,
+    "acceptance rate": 0.5552358614853088,
+    "link": "https://leetcode.com/problems/add-binary",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Combination Sum II",
+    "frequency": 45.1,
+    "acceptance rate": 0.5748460361419881,
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Divide Two Integers",
+    "frequency": 45.1,
+    "acceptance rate": 0.18311662816046756,
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Decode Ways",
+    "frequency": 44.6,
+    "acceptance rate": 0.36380930064388683,
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Minimum Path Sum",
+    "frequency": 44.6,
+    "acceptance rate": 0.6624647915526425,
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Insert Interval",
+    "frequency": 44.6,
+    "acceptance rate": 0.4327287017374153,
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Edit Distance",
+    "frequency": 44.6,
+    "acceptance rate": 0.585722001306939,
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": 44.1,
+    "acceptance rate": 0.6269549605552125,
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Subsets II",
+    "frequency": 43.6,
+    "acceptance rate": 0.5926604871161525,
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Rotate List",
+    "frequency": 43.6,
+    "acceptance rate": 0.3976325767080527,
+    "link": "https://leetcode.com/problems/rotate-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Simplify Path",
+    "frequency": 43.6,
+    "acceptance rate": 0.4744183967040803,
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Length of Last Word",
+    "frequency": 43,
+    "acceptance rate": 0.5602964343424442,
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "topics": [
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "3Sum Closest",
+    "frequency": 43,
+    "acceptance rate": 0.4680125286904475,
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Same Tree",
+    "frequency": 42.5,
+    "acceptance rate": 0.6487197154282373,
+    "link": "https://leetcode.com/problems/same-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Count and Say",
+    "frequency": 41.3,
+    "acceptance rate": 0.6023497180030231,
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Wildcard Matching",
+    "frequency": 40.7,
+    "acceptance rate": 0.29686653433808974,
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Binary Tree Inorder Traversal",
+    "frequency": 40.7,
+    "acceptance rate": 0.783726829526087,
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Sudoku Solver",
+    "frequency": 40,
+    "acceptance rate": 0.6375732569888851,
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Search in Rotated Sorted Array II",
+    "frequency": 40,
+    "acceptance rate": 0.3877889407754102,
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "EASY",
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": 38,
+    "acceptance rate": 0.5469339006776454,
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "topics": [
+      "Linked List"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Multiply Strings",
+    "frequency": 37.2,
+    "acceptance rate": 0.42149338911900286,
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Partition List",
+    "frequency": 36.4,
+    "acceptance rate": 0.5875201891124217,
+    "link": "https://leetcode.com/problems/partition-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Text Justification",
+    "frequency": 35.6,
+    "acceptance rate": 0.4781177091731534,
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Maximal Rectangle",
+    "frequency": 35.6,
+    "acceptance rate": 0.5335151675211963,
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Unique Paths II",
+    "frequency": 34.7,
+    "acceptance rate": 0.43002245311373083,
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Unique Binary Search Trees II",
+    "frequency": 34.7,
+    "acceptance rate": 0.6018047905634831,
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "topics": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Permutation Sequence",
+    "frequency": 33.8,
+    "acceptance rate": 0.4967040442778241,
+    "link": "https://leetcode.com/problems/permutation-sequence",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": 31.8,
+    "acceptance rate": 0.32941854306613955,
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Combinations",
+    "frequency": 29.6,
+    "acceptance rate": 0.726801674412386,
+    "link": "https://leetcode.com/problems/combinations",
+    "topics": [
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Gray Code",
+    "frequency": 28.4,
+    "acceptance rate": 0.616284140361494,
+    "link": "https://leetcode.com/problems/gray-code",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Recover Binary Search Tree",
+    "frequency": 28.4,
+    "acceptance rate": 0.5596819896627944,
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Permutations II",
+    "frequency": 27,
+    "acceptance rate": 0.6138429935990137,
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Interleaving String",
+    "frequency": 27,
+    "acceptance rate": 0.4201336116477431,
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Spiral Matrix II",
+    "frequency": 24.1,
+    "acceptance rate": 0.7328180504545727,
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Restore IP Addresses",
+    "frequency": 24.1,
+    "acceptance rate": 0.5287266487808023,
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Unique Binary Search Trees",
+    "frequency": 24.1,
+    "acceptance rate": 0.6233983571794426,
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "MEDIUM",
+    "title": "Remove Duplicates from Sorted List II",
+    "frequency": 20.5,
+    "acceptance rate": 0.4968220258057616,
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Valid Number",
+    "frequency": 16.2,
+    "acceptance rate": 0.2141065794602857,
+    "link": "https://leetcode.com/problems/valid-number",
+    "topics": [
+      "String"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "N-Queens II",
+    "frequency": 13.6,
+    "acceptance rate": 0.7648224576591086,
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "topics": [
+      "Backtracking"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  },
+  {
+    "difficulty": "HARD",
+    "title": "Scramble String",
+    "frequency": 7.5,
+    "acceptance rate": 0.4202161021781275,
+    "link": "https://leetcode.com/problems/scramble-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "companies": [
+      "Amazon"
+    ],
+    "datecategories": [
+      "all time"
+    ]
+  }
+]

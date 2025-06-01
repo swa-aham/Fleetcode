@@ -1,0 +1,1002 @@
+[
+  {
+    "difficulty": "easy",
+    "title": "Two Sum",
+    "frequency": 100,
+    "acceptancerate": 0.5554645076851493,
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": ["Array", "Hash Table"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "LRU Cache",
+    "frequency": 86.8,
+    "acceptancerate": 0.44936755721903476,
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": ["Hash Table", "Linked List", "Design", "Doubly-Linked List"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Reorganize String",
+    "frequency": 86.8,
+    "acceptancerate": 0.5606363658538208,
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": ["Hash Table", "String", "Greedy", "Sorting", "Heap (Priority Queue)", "Counting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Trapping Rain Water",
+    "frequency": 80.6,
+    "acceptancerate": 0.6481172890341239,
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": ["Array", "Two Pointers", "Dynamic Programming", "Stack", "Monotonic Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Number of Islands",
+    "frequency": 78.7,
+    "acceptancerate": 0.6206899691824863,
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": ["Array", "Depth-First Search", "Breadth-First Search", "Union Find", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Valid Parentheses",
+    "frequency": 76.7,
+    "acceptancerate": 0.4215998092797934,
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": ["String", "Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Maximum Subarray",
+    "frequency": 74.5,
+    "acceptancerate": 0.5197311951566328,
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": ["Array", "Divide and Conquer", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": 74.5,
+    "acceptancerate": 0.6016374986045121,
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": ["Hash Table", "Linked List"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": 74.5,
+    "acceptancerate": 0.5506565802267313,
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": ["Array", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": 72.1,
+    "acceptancerate": 0.5438722159974303,
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": ["Array", "Binary Search", "Dynamic Programming", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Merge Sorted Array",
+    "frequency": 72.1,
+    "acceptancerate": 0.5267878111175235,
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Course Schedule",
+    "frequency": 69.3,
+    "acceptancerate": 0.48945579243789034,
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": ["Depth-First Search", "Breadth-First Search", "Graph", "Topological Sort"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Product of Array Except Self",
+    "frequency": 69.3,
+    "acceptancerate": 0.6762122714329046,
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": ["Array", "Prefix Sum"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Word Ladder",
+    "frequency": 69.3,
+    "acceptancerate": 0.4245616859563875,
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": ["Hash Table", "String", "Breadth-First Search"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": 69.3,
+    "acceptancerate": 0.5644298154464569,
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": ["Linked List", "Divide and Conquer", "Heap (Priority Queue)", "Merge Sort"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Rotting Oranges",
+    "frequency": 69.3,
+    "acceptancerate": 0.5635823145434706,
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": ["Array", "Breadth-First Search", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Concatenated Words",
+    "frequency": 69.3,
+    "acceptancerate": 0.494009349500679,
+    "link": "https://leetcode.com/problems/concatenated-words",
+    "topics": ["Array", "String", "Dynamic Programming", "Depth-First Search", "Trie"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Course Schedule II",
+    "frequency": 69.3,
+    "acceptancerate": 0.5312870891411435,
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": ["Depth-First Search", "Breadth-First Search", "Graph", "Topological Sort"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": 66.3,
+    "acceptancerate": 0.6142366432073423,
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": ["Tree", "Breadth-First Search", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Analyze User Website Visit Pattern",
+    "frequency": 66.3,
+    "acceptancerate": 0.4357997464960033,
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "topics": ["Array", "Hash Table", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Word Break II",
+    "frequency": 66.3,
+    "acceptancerate": 0.5339042342014533,
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": ["Array", "Hash Table", "String", "Dynamic Programming", "Backtracking", "Trie", "Memoization"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Merge Intervals",
+    "frequency": 66.3,
+    "acceptancerate": 0.49193339333454633,
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": ["Array", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": 66.3,
+    "acceptancerate": 0.43488034833267925,
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": ["Array", "Binary Search", "Divide and Conquer"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": 66.3,
+    "acceptancerate": 0.3671605541518096,
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": ["Hash Table", "String", "Sliding Window"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Maximum Frequency After Subarray Operation",
+    "frequency": 62.7,
+    "acceptancerate": 0.2384449323763308,
+    "link": "https://leetcode.com/problems/maximum-frequency-after-subarray-operation",
+    "topics": ["Array", "Hash Table", "Dynamic Programming", "Greedy", "Enumeration", "Prefix Sum"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Minimum Difference in Sums After Removal of Elements",
+    "frequency": 62.7,
+    "acceptancerate": 0.49155325281862294,
+    "link": "https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements",
+    "topics": ["Array", "Dynamic Programming", "Heap (Priority Queue)"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Minimum Operations to Make the Array Alternating",
+    "frequency": 62.7,
+    "acceptancerate": 0.34276142932212295,
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating",
+    "topics": ["Array", "Hash Table", "Greedy", "Counting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Candy",
+    "frequency": 58.5,
+    "acceptancerate": 0.4466005054996996,
+    "link": "https://leetcode.com/problems/candy",
+    "topics": ["Array", "Greedy"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": 58.5,
+    "acceptancerate": 0.411182935718486,
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": ["Dynamic Programming", "Tree", "Depth-First Search", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Container With Most Water",
+    "frequency": 58.5,
+    "acceptancerate": 0.5757711456496178,
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": ["Array", "Two Pointers", "Greedy"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Meeting Rooms II",
+    "frequency": 58.5,
+    "acceptancerate": 0.5207959974984365,
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": ["Array", "Two Pointers", "Greedy", "Sorting", "Heap (Priority Queue)", "Prefix Sum"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Count Subarrays of Length Three With a Condition",
+    "frequency": 58.5,
+    "acceptancerate": 0.6201802975996524,
+    "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition",
+    "topics": ["Array"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Word Search II",
+    "frequency": 58.5,
+    "acceptancerate": 0.37199822250810954,
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": ["Array", "String", "Backtracking", "Trie", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "LFU Cache",
+    "frequency": 58.5,
+    "acceptancerate": 0.4627928056428496,
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": ["Hash Table", "Linked List", "Design", "Doubly-Linked List"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": 58.5,
+    "acceptancerate": 0.6636589751461347,
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": ["Tree", "Depth-First Search", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Koko Eating Bananas",
+    "frequency": 58.5,
+    "acceptancerate": 0.4904251402848441,
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": ["Array", "Binary Search"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": 58.5,
+    "acceptancerate": 0.5755237336077081,
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": ["Array", "Binary Search", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Find Median from Data Stream",
+    "frequency": 58.5,
+    "acceptancerate": 0.5311626881494289,
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": ["Two Pointers", "Design", "Sorting", "Heap (Priority Queue)", "Data Stream"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "House Robber",
+    "frequency": 58.5,
+    "acceptancerate": 0.5218917036365763,
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": ["Array", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": 58.5,
+    "acceptancerate": 0.4264861408520957,
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": ["Array", "Binary Search"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Top K Frequent Elements",
+    "frequency": 58.5,
+    "acceptancerate": 0.6438793054287992,
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": ["Array", "Hash Table", "Divide and Conquer", "Sorting", "Heap (Priority Queue)", "Bucket Sort", "Counting", "Quickselect"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Climbing Stairs",
+    "frequency": 58.5,
+    "acceptancerate": 0.5347678153644856,
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": ["Math", "Dynamic Programming", "Memoization"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Group Anagrams",
+    "frequency": 58.5,
+    "acceptancerate": 0.707239914166824,
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": ["Array", "Hash Table", "String", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": 53.3,
+    "acceptancerate": 0.5492711784037404,
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": ["Array", "Hash Table", "Math", "Design", "Randomized"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": 53.3,
+    "acceptancerate": 0.4656721517228316,
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": ["Array", "Binary Search"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "3Sum",
+    "frequency": 53.3,
+    "acceptancerate": 0.3684032057475811,
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": 53.3,
+    "acceptancerate": 0.3564830905278466,
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": ["Two Pointers", "String", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Moving Average from Data Stream",
+    "frequency": 46.8,
+    "acceptancerate": 0.7985213733134725,
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "topics": ["Array", "Design", "Queue", "Data Stream"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Add Two Numbers",
+    "frequency": 46.8,
+    "acceptancerate": 0.459413124272012,
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": ["Linked List", "Math", "Recursion"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Count Covered Buildings",
+    "frequency": 46.8,
+    "acceptancerate": 0.3657135773902983,
+    "link": "https://leetcode.com/problems/count-covered-buildings",
+    "topics": ["Array", "Hash Table", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Find K Closest Elements",
+    "frequency": 46.8,
+    "acceptancerate": 0.4853958764661634,
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "topics": ["Array", "Two Pointers", "Binary Search", "Sliding Window", "Sorting", "Heap (Priority Queue)"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Valid Anagram",
+    "frequency": 46.8,
+    "acceptancerate": 0.6647077413449705,
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": ["Hash Table", "String", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Simplify Path",
+    "frequency": 46.8,
+    "acceptancerate": 0.4744183967040803,
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": ["String", "Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Spiral Matrix",
+    "frequency": 46.8,
+    "acceptancerate": 0.5357353637510847,
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": ["Array", "Matrix", "Simulation"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Min Stack",
+    "frequency": 46.8,
+    "acceptancerate": 0.5623408270675713,
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": ["Stack", "Design"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Pow(x, n)",
+    "frequency": 46.8,
+    "acceptancerate": 0.3685479836996733,
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": ["Math", "Recursion"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": 46.8,
+    "acceptancerate": 0.32941854306613955,
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": ["Hash Table", "String", "Sliding Window"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Daily Temperatures",
+    "frequency": 46.8,
+    "acceptancerate": 0.6721550262683514,
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": ["Array", "Stack", "Monotonic Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Word Search",
+    "frequency": 46.8,
+    "acceptancerate": 0.4502655301147508,
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": ["Array", "String", "Backtracking", "Depth-First Search", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Bus Routes",
+    "frequency": 46.8,
+    "acceptancerate": 0.46972305199736725,
+    "link": "https://leetcode.com/problems/bus-routes",
+    "topics": ["Array", "Hash Table", "Breadth-First Search"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Coin Change",
+    "frequency": 46.8,
+    "acceptancerate": 0.46233610741627024,
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": ["Array", "Dynamic Programming", "Breadth-First Search"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Flood Fill",
+    "frequency": 46.8,
+    "acceptancerate": 0.6619578075019773,
+    "link": "https://leetcode.com/problems/flood-fill",
+    "topics": ["Array", "Depth-First Search", "Breadth-First Search", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": 46.8,
+    "acceptancerate": 0.4707106837216007,
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": ["Array", "Hash Table", "Union Find"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "4Sum",
+    "frequency": 46.8,
+    "acceptancerate": 0.37979052011705344,
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Edit Distance",
+    "frequency": 46.8,
+    "acceptancerate": 0.585722001306939,
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": ["String", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Top K Frequent Words",
+    "frequency": 46.8,
+    "acceptancerate": 0.5915504197792476,
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": ["Array", "Hash Table", "String", "Trie", "Sorting", "Heap (Priority Queue)", "Bucket Sort", "Counting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Max Consecutive Ones III",
+    "frequency": 46.8,
+    "acceptancerate": 0.6569321369774143,
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "topics": ["Array", "Binary Search", "Sliding Window", "Prefix Sum"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "frequency": 46.8,
+    "acceptancerate": 0.836239100081667,
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "topics": ["Database"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Design Search Autocomplete System",
+    "frequency": 37.6,
+    "acceptancerate": 0.4934711938160577,
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "topics": ["String", "Depth-First Search", "Design", "Trie", "Sorting", "Heap (Priority Queue)", "Data Stream"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Range Sum Query - Immutable",
+    "frequency": 37.6,
+    "acceptancerate": 0.680276026845116,
+    "link": "https://leetcode.com/problems/range-sum-query-immutable",
+    "topics": ["Array", "Design", "Prefix Sum"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Length of Last Word",
+    "frequency": 37.6,
+    "acceptancerate": 0.5602964343424442,
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "topics": ["String"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Word Break",
+    "frequency": 37.6,
+    "acceptancerate": 0.48131539116528965,
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": ["Array", "Hash Table", "String", "Dynamic Programming", "Trie", "Memoization"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Longest Common Subsequence",
+    "frequency": 37.6,
+    "acceptancerate": 0.5815548734439525,
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "topics": ["String", "Dynamic Programming"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Serialize and Deserialize Binary Tree",
+    "frequency": 37.6,
+    "acceptancerate": 0.5872326489337558,
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "topics": ["String", "Tree", "Depth-First Search", "Breadth-First Search", "Design", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Basic Calculator II",
+    "frequency": 37.6,
+    "acceptancerate": 0.4562780032417935,
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": ["Math", "String", "Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "132 Pattern",
+    "frequency": 37.6,
+    "acceptancerate": 0.34005593958997343,
+    "link": "https://leetcode.com/problems/132-pattern",
+    "topics": ["Array", "Binary Search", "Stack", "Monotonic Stack", "Ordered Set"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Evaluate Division",
+    "frequency": 37.6,
+    "acceptancerate": 0.6298761961582804,
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": ["Array", "String", "Depth-First Search", "Breadth-First Search", "Union Find", "Graph", "Shortest Path"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Max Stack",
+    "frequency": 37.6,
+    "acceptancerate": 0.454794381352465,
+    "link": "https://leetcode.com/problems/max-stack",
+    "topics": ["Linked List", "Stack", "Design", "Doubly-Linked List", "Ordered Set"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Making A Large Island",
+    "frequency": 37.6,
+    "acceptancerate": 0.5455438907814463,
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "topics": ["Array", "Depth-First Search", "Breadth-First Search", "Union Find", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Count Complete Subarrays in an Array",
+    "frequency": 37.6,
+    "acceptancerate": 0.7578709865761517,
+    "link": "https://leetcode.com/problems/count-complete-subarrays-in-an-array",
+    "topics": ["Array", "Hash Table", "Sliding Window"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": 37.6,
+    "acceptancerate": 0.6783367806719772,
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": ["Array", "Divide and Conquer", "Sorting", "Heap (Priority Queue)", "Quickselect"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Majority Element",
+    "frequency": 37.6,
+    "acceptancerate": 0.6565324965940915,
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": ["Array", "Hash Table", "Divide and Conquer", "Sorting", "Counting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Minimum Window Substring",
+    "frequency": 37.6,
+    "acceptancerate": 0.45098434675694304,
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": ["Hash Table", "String", "Sliding Window"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "All Nodes Distance K in Binary Tree",
+    "frequency": 37.6,
+    "acceptancerate": 0.6620406465428594,
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "topics": ["Hash Table", "Tree", "Depth-First Search", "Breadth-First Search", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "frequency": 37.6,
+    "acceptancerate": 0.649297981961194,
+    "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "topics": ["Depth-First Search", "Breadth-First Search", "Graph"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": 37.6,
+    "acceptancerate": 0.6517003954224225,
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": ["Stack", "Tree", "Depth-First Search", "Design", "Queue", "Iterator"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Exclusive Time of Functions",
+    "frequency": 37.6,
+    "acceptancerate": 0.6459410351093137,
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "topics": ["Array", "Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Remove K Digits",
+    "frequency": 37.6,
+    "acceptancerate": 0.3472549763785216,
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": ["String", "Stack", "Greedy", "Monotonic Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Move Zeroes",
+    "frequency": 37.6,
+    "acceptancerate": 0.6272146675852165,
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": ["Array", "Two Pointers"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Basic Calculator",
+    "frequency": 37.6,
+    "acceptancerate": 0.4535227849730054,
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": ["Math", "String", "Stack", "Recursion"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "frequency": 37.6,
+    "acceptancerate": 0.594249905580707,
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "topics": ["String", "Stack"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Count Good Triplets",
+    "frequency": 37.6,
+    "acceptancerate": 0.8546858948773481,
+    "link": "https://leetcode.com/problems/count-good-triplets",
+    "topics": ["Array", "Enumeration"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Single Number",
+    "frequency": 37.6,
+    "acceptancerate": 0.7573431738316213,
+    "link": "https://leetcode.com/problems/single-number",
+    "topics": ["Array", "Bit Manipulation"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Count Good Nodes in Binary Tree",
+    "frequency": 37.6,
+    "acceptancerate": 0.7342082068357654,
+    "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+    "topics": ["Tree", "Depth-First Search", "Breadth-First Search", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "String Compression",
+    "frequency": 37.6,
+    "acceptancerate": 0.5782705575805063,
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": ["Two Pointers", "String"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "hard",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "frequency": 37.6,
+    "acceptancerate": 0.4553177883846804,
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "topics": ["Array", "Breadth-First Search", "Matrix"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Squares of a Sorted Array",
+    "frequency": 37.6,
+    "acceptancerate": 0.7317557720487635,
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "medium",
+    "title": "Flatten Binary Tree to Linked List",
+    "frequency": 37.6,
+    "acceptancerate": 0.6820488605391045,
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "topics": ["Linked List", "Stack", "Tree", "Depth-First Search", "Binary Tree"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Shortest Word Distance",
+    "frequency": 37.6,
+    "acceptancerate": 0.6591371215202041,
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "topics": ["Array", "String"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  },
+  {
+    "difficulty": "easy",
+    "title": "Greatest Common Divisor of Strings",
+    "frequency": 37.6,
+    "acceptancerate": 0.5262263281352108,
+    "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "topics": ["Math", "String"],
+    "companies": ["Amazon"],
+    "datecategories": ["all time", "1 month"]
+  }
+]
