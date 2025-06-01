@@ -1,0 +1,31 @@
+/* Problem list container */
+.problem-list-container {
+  background-color: var(--color-card);
+  border-radius: var(--border-radius-l);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  margin-bottom: var(--spacing-xl);
+}
+
+.problem-list-content {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  min-height: 600px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .problem-list-content {
+    grid-template-columns: 240px 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .problem-list-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .problem-list-container {
+    border-radius: var(--border-radius-m);
+  }
+}

@@ -1,0 +1,131 @@
+/* Header styles */
+.header {
+  background-color: var(--color-card);
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--spacing-m);
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.logo h1 {
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.logo h1 span {
+  color: var(--color-primary);
+}
+
+.search-container {
+  flex: 1;
+  max-width: 400px;
+  margin: 0 var(--spacing-l);
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background-color: var(--color-background);
+  border-radius: var(--border-radius-m);
+  padding: var(--spacing-s) var(--spacing-m);
+  transition: all 0.2s ease;
+}
+
+.search-bar:focus-within {
+  box-shadow: 0 0 0 2px var(--color-primary-light);
+}
+
+.search-icon {
+  color: var(--color-text-secondary);
+  margin-right: var(--spacing-s);
+}
+
+.search-bar input {
+  border: none;
+  background: transparent;
+  width: 100%;
+  font-size: var(--font-size-s);
+  outline: none;
+  color: var(--color-text);
+}
+
+.search-bar input::placeholder {
+  color: var(--color-text-secondary);
+}
+
+.navigation ul {
+  display: flex;
+  list-style: none;
+  gap: var(--spacing-l);
+}
+
+.navigation a {
+  color: var(--color-text-secondary);
+  font-weight: 500;
+  padding: var(--spacing-s) 0;
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+.navigation a:hover {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.navigation a.active {
+  color: var(--color-primary);
+}
+
+.navigation a.active::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--color-primary);
+  border-radius: 1px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .header-container {
+    flex-wrap: wrap;
+  }
+  
+  .search-container {
+    order: 3;
+    max-width: 100%;
+    margin: var(--spacing-m) 0 0;
+    width: 100%;
+  }
+  
+  .navigation ul {
+    gap: var(--spacing-m);
+  }
+}
+
+@media (max-width: 600px) {
+  .logo h1 {
+    font-size: var(--font-size-m);
+  }
+  
+  .navigation ul {
+    gap: var(--spacing-s);
+  }
+  
+  .navigation a {
+    font-size: var(--font-size-s);
+  }
+}
